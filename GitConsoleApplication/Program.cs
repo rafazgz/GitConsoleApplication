@@ -10,6 +10,7 @@ namespace GitConsoleApplication
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Change Branch 2");
         }
     }
 }
